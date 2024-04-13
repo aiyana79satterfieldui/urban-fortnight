@@ -5,7 +5,7 @@
   </caption>
   <thead>
     <tr>
-      <th scope="col">Name</th>
+      <th scope="col">Download</th>
       <th scope="col">Size</th>
     </tr>
   </thead>
